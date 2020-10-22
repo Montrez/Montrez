@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 
 ## - 📫 How to reach me:
 
+[LinkedIn](https://www.linkedin.com/in/montrez-cox-3ab84b67/)
+
+[Twitter](https://www.twitter.com/trey_ns)
+

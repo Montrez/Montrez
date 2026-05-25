@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 -->
 
 [![Montrez's github stats](https://github-readme-stats.vercel.app/api?username=montrez&count_private=true&hide=contribs,issues,stars&show_icons=true&theme=synthwave)](https://github.com/montrez/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montrez&layout=compact)](https://github.com/montrez/github-readme-stats)
 
 ## 🧰 Languages and Tools:
 <p align="center">
